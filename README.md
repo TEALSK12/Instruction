@@ -1,2 +1,2 @@
 # Instruction
-TEALS Repository used to instruction materials 
+TEALS Repository used for instruction materials 
