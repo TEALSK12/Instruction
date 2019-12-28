@@ -2,7 +2,7 @@
 
 ## Instructions
 
-Find a person with who has experienced the item in a classroom. The first person to finish a row or column yells "Bingo!" and wins. In order for the cell to count, it must have the initials of the person they found to match the criteria.
+Find a person with who has experienced the item in a classroom. The first person to finish a row or column yells "Bingo!" and wins. For the cell to count, it must have the initials of the person they found to match the criteria.
 
 | Formative Assessment | Enrollment | Culture Days | Role | Tools |
 | :---: | :---: | :---: | :---: | :---: |
