@@ -24,7 +24,7 @@ AP CS Princples - https://apstudents.collegeboard.org/courses/ap-computer-scienc
 
 3. There are two Quick Reference Guides for AP CS A. Which one is relevent to the exam this spring?
 
-4. Find the AP Computer Science A Exam Free-Response Question and Scoring Information Archive. Navigate to the 2018: Free Response Questions. Look over question #1 and sample responses for question #1. Answer the following questions:
+4. Find the AP Computer Science A Exam Free-Response Question and Scoring Information Archive. Navigate to the 2018: Free Response Questions. Look over question #1 and sample responses for question #1. Discuss the following questions with another attendee:
 
     * Do you feel your students are ready for a similar question?
     * What is something you could do to help students prepare?
@@ -38,7 +38,7 @@ AP CS Princples - https://apstudents.collegeboard.org/courses/ap-computer-scienc
 
 3. What tool does the College Board give to students to help with their submission and to help avoid suspician of plagiarism?
 
-4. Find the 2018: Sample Responses and Scoring Guidelines. Look over Explore A: Artifact and Explore A: Writtent Response. Answer the following questions:
+4. Find the 2018: Sample Responses and Scoring Guidelines. Look over Explore A: Artifact and Explore A: Writtent Response. Discuss the following questions with another attendee:
 
     * Do you feel your students are ready for a similar task?
     * What is something you could do to help students prepare?
