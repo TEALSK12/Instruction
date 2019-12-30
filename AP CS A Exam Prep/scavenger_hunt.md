@@ -22,7 +22,7 @@ AP CS Princples - https://apstudents.collegeboard.org/courses/ap-computer-scienc
 
 2. (True/False) The multiple-choice section includes individual, single questions as well as sets of 2–3 questions.
 
-3. There are two Quick Reference Guides for AP CS A. Which one is relevent to the exam this spring?
+3. There are two Quick Reference Guides for AP CS A. Which one is relevant to the exam this spring?
 
 4. Find the AP Computer Science A Exam Free-Response Question and Scoring Information Archive. Navigate to the 2018: Free Response Questions. Look over question #1 and sample responses for question #1. Discuss the following questions with another attendee:
 
@@ -34,11 +34,11 @@ AP CS Princples - https://apstudents.collegeboard.org/courses/ap-computer-scienc
 
 1. What will the students need to submit for each performance task?
 
-2. What are the two types of multiple choice questions in the End of Course Exam?
+2. What are the two types of multiple-choice questions in the End of Course Exam?
 
-3. What tool does the College Board give to students to help with their submission and to help avoid suspician of plagiarism?
+3. What tool does the College Board give to students to help with their submission and to help avoid suspicion of plagiarism?
 
-4. Find the 2018: Sample Responses and Scoring Guidelines. Look over Explore A: Artifact and Explore A: Writtent Response. Discuss the following questions with another attendee:
+4. Find the 2018: Sample Responses and Scoring Guidelines. Look over Explore A: Artifact and Explore A: Written Response. Discuss the following questions with another attendee:
 
     * Do you feel your students are ready for a similar task?
     * What is something you could do to help students prepare?
