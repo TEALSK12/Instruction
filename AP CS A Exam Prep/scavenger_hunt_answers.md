@@ -1,6 +1,6 @@
 # AP CS A Exam Scavenger Hunt
 
-## Instructions 
+## Instructions
 
 Fill out the following using the following link:
 
