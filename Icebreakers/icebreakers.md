@@ -7,4 +7,4 @@
 
 ### F2F or Remote Icebreakers
 
-* [Four Corners](four_corner.md) [[docs]](https://github.com/TEALSK12/Instruction/raw/master/Icebreakers/four_corner.docx)
+* [Four Corners](four_corner.md) [[docx]](https://github.com/TEALSK12/Instruction/raw/master/Icebreakers/four_corner.docx)
