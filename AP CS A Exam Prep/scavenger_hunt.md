@@ -6,7 +6,7 @@ Fill out the following using the following link:
 
 AP CS A - https://apstudents.collegeboard.org/courses/ap-computer-science-a/assessment
 
-AP CS Princples - https://apstudents.collegeboard.org/courses/ap-computer-science-principles/assessment
+AP CS Principles - https://apstudents.collegeboard.org/courses/ap-computer-science-principles/assessment
 
 1. When is the AP Exam this spring?
 
@@ -30,7 +30,7 @@ AP CS Princples - https://apstudents.collegeboard.org/courses/ap-computer-scienc
     * What is something you could do to help students prepare?
     * What are some ways to have students practice similar problems?
 
-## AP CS Principles
+### AP CS Principles
 
 1. What will the students need to submit for each performance task?
 
