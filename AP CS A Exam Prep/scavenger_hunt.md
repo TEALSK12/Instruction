@@ -5,7 +5,6 @@
 Fill out the following using the following link:
 
 AP CS A - https://apstudents.collegeboard.org/courses/ap-computer-science-a/assessment
-
 AP CS Principles - https://apstudents.collegeboard.org/courses/ap-computer-science-principles/assessment
 
 1. When is the AP Exam this spring?
