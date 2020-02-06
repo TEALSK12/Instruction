@@ -2,7 +2,9 @@
 
 ## Directions
 
-Announce a topic with four answer choices. Assign each answer choice to a corner of the room. On the moderator’s count, have each participant move to the appropriate corner. When all participants have chosen a corner either 1) give each small group a subtopic to discuss among themselves or 2) allow some (or all) of the participants in each corner to share with the large group about why they chose the answer in that corner.
+Announce a topic with four answer choices. Assign each answer choice to a corner of the room. On the moderator’s count, have each participant move to the appropriate corner. When all participants have chosen a corner either 
+1. Give each small group a subtopic to discuss among themselves -or- 
+2. Allow some (or all) of the participants in each corner to share with the large group about why they chose the answer in that corner.
 
 ### Remote Modifications
 
